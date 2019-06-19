@@ -9,6 +9,7 @@ hellow world 2번째 커밋
 
 브랜치 커밋2
 
+<<<<<<< HEAD
 master commit
 =======
 
@@ -18,3 +19,9 @@ master commit
 
 브랜치 커밋2
 >>>>>>> branch-1
+=======
+
+브랜치 222
+
+브랜치 222 -- 222
+>>>>>>> branch-2
