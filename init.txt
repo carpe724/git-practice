@@ -1,5 +1,6 @@
 hellow world
 
+<<<<<<< HEAD
 hellow world 2번째 커밋
 
 <<<<<<< HEAD
@@ -29,3 +30,6 @@ master commit
 =======
 마스터 커밋1 브랜치 3333
 >>>>>>> branch-3
+=======
+hellow world 2번째 커밋
+>>>>>>> parent of fa80af0... 마스터커밋1
